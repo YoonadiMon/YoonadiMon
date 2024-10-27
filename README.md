@@ -3,6 +3,7 @@
 <p align="center">
   Hi there, I'm Yoon! 👋
 </p>
+---
 
 <!--
 **YoonadiMon/YoonadiMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✍️ I'm currently learning-<br>- Javascript<br>- Python<br>- React<br>- React Native<br>- Figma<br><br>🔗 I'm learning from-<br>- [freeCodeCamp](https://www.freecodecamp.org/MiYoonadiMon)<br>- [frontendMentor](https://www.frontendmentor.io/profile/YoonadiMon)<br><br>💻 I'm also actively joining hackathons at [devpost](https://devpost.com/YoonadiMon?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+✍️ I'm currently learning-
+- Javascript
+- Python
+- React
+- React Native
+- Figma
+
+🔗 I'm learning from-<br>- [freeCodeCamp](https://www.freecodecamp.org/MiYoonadiMon)<br>- [frontendMentor](https://www.frontendmentor.io/profile/YoonadiMon)<br><br>💻 I'm also actively joining hackathons at [devpost](https://devpost.com/YoonadiMon?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
 
 
 # 🛠 Tech Stack:
@@ -36,5 +44,3 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YoonadiMon&icon=10&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
