@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonadiMon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages used graph" width="44%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YoonadiMon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="stat graph" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoonadiMon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="stat graph" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoonadiMon&theme=tokyonight&hide_border=false" alt="streak graph" height="220" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoonadiMon&theme=tokyonight&hide_border=false&layout=compact" width="94%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoonadiMon&theme=tokyonight&hide_border=false&layout=compact" width="92%"/>
 </div>
  <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonadiMon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
