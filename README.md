@@ -1,4 +1,4 @@
-## ✨ About Me:
+## ✨ About Me
 
 <p align="center">
   Hi there, I'm Yoon! 👋
