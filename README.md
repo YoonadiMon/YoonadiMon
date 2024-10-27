@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 - React Native
 - Figma
 
-🔗 I'm learning from-<br>- [freeCodeCamp](https://www.freecodecamp.org/MiYoonadiMon)<br>- [frontendMentor](https://www.frontendmentor.io/profile/YoonadiMon)<br><br>💻 I'm also actively joining hackathons at [devpost](https://devpost.com/YoonadiMon?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)<br>
+🔗 I'm learning from-
+- [freeCodeCamp](https://www.freecodecamp.org/MiYoonadiMon)
+- [frontendMentor](https://www.frontendmentor.io/profile/YoonadiMon)
+
+💻 I'm also actively joining hackathons at [devpost](https://devpost.com/YoonadiMon?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
 # 🛠 Tech Stack:
