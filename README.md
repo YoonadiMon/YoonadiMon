@@ -1,6 +1,8 @@
 ## ✨ About Me:
 
-## Hi there, I'm Yoon! 👋
+<p align="center">
+  Hi there, I'm Yoon! 👋
+</p>
 
 <!--
 **YoonadiMon/YoonadiMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
