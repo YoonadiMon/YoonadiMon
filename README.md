@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
 <div align="center">
-  <img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/9d82d6d0-a0f3-4251-8ec1-45dad6a08bff.svg" alt="coding activity" width="45%">
-  <img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/1d1b01df-1d85-4afa-8ebb-de930f44a346.svg" alt="coding lang" width="45%">
+  <img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/cd36a4f3-4596-4d4a-88b0-12f3fd3f9a39.svg" alt="coding activity" width="45%">
+  <img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/ab2c154d-398d-4427-b513-2ae445a0d8e4.svg" alt="coding lang" width="45%">
 </div>
 
 # 📊 GitHub Stats:
