@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 - Python
 - React
 - Figma
-
+<!--
+**
 🔗 I'm learning from-
 - [freeCodeCamp](https://www.freecodecamp.org/MiYoonadiMon)
 - [frontendMentor](https://www.frontendmentor.io/profile/YoonadiMon)
-
+-->
 💻 I'm also actively joining hackathons at [devpost](https://devpost.com/YoonadiMon?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 📧 You can reach me at myoon294@gmail.com
