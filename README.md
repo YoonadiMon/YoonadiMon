@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - Python
 - React
 - Figma
+<figure><embed src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/f350e139-f07c-4daa-bc53-f11d67bbf870.svg"></embed></figure>
 <!--
 **
 🔗 I'm learning from-
