@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✍️ I'm currently focusing on front-end development but I aspire to become a full-stack developer.
+⚡ I'm currently focusing on front-end development but I aspire to become a full-stack developer.
 
 ✍️ I'm actively learning-
 - Javascript
