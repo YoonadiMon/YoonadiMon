@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 - Python
 - React
 - Figma
-<figure><embed src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/f350e139-f07c-4daa-bc53-f11d67bbf870.svg"></embed></figure>
+
+<img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/f350e139-f07c-4daa-bc53-f11d67bbf870.svg">
+
 <!--
 **
 🔗 I'm learning from-
@@ -39,6 +41,7 @@ Here are some ideas to get you started:
 
 # 🛠 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonadiMon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages used graph" width="44%" />
