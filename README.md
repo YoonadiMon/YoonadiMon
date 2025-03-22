@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/cd36a4f3-4596-4d4a-88b0-12f3fd3f9a39.svg" alt="coding activity" width="45%">
   <img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/ab2c154d-398d-4427-b513-2ae445a0d8e4.svg" alt="coding lang" width="45%">
-  <figure><embed src="https://wakatime.com/share/@MYNM/3e435d14-85f2-48bc-89b0-3dc44b5446d3.svg"></embed></figure>
+  <img src="https://wakatime.com/share/embeddable.svg?format=svg&type=languages-donut&time_range=all_time&theme=Custom&background_color=%231a1b27&background_color_transparent=false&foreground_color=%2370a5fd&hide_time=true&show_legend=true&show_title=true&confirm=true&timeout=15&writes_only=false&timezone=Asia%2FYangon&weekday_start=0&date_format=YYYY-MM-DD" alt="coding lang2" width="45%">
 </div>
 
 # 📊 GitHub Stats:
