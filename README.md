@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/cd36a4f3-4596-4d4a-88b0-12f3fd3f9a39.svg" alt="coding activity" width="45%">
   <img src="https://wakatime.com/share/@018e0ede-5109-4231-a915-219f103a6ca7/ab2c154d-398d-4427-b513-2ae445a0d8e4.svg" alt="coding lang" width="45%">
-  <img src="https://wakatime.com/share/@MYNM/f79175cc-0d88-45a5-a801-a0259e22eecb.png" />
+  <img src="https://wakatime.com/share/@MYNM/6870cd2e-8c46-43e1-9215-e70cc69ae728.svg" />
 </div>
 
 # 📊 GitHub Stats:
