@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 ⚡ I'm currently focusing on front-end development but I aspire to become a full-stack developer.
 
 ✍️ I'm actively learning-
-- Javascript
+- Javascript 
 - Python
-- React
+- React Native
+- Java
 
 <!--
 **
